@@ -8,7 +8,7 @@ This is a MATLAB implementation of the paper, "LIME: Low-Light Image Enhancement
 ## How to Use 
 ### Clone the repository:
 ```
-git clone https://github.com/SAILAKKSHMEDOKKU/DIP-Project.git
+git clone [(https://github.com/Pedakam0321/Low-Light-Image-Enhancement-via-Illumination-Map-Estimation)]
 ```
 
 &nbsp; Open MATLAB, go to the git repository folder.
